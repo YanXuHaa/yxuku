@@ -1,2 +1,4 @@
-# yxuku
-emmm..for myself's ku?
+# 介绍
+By 1itt1e_1219
+
+仅用于个人存储、转发脚本等用途
