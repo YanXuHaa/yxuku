@@ -18,7 +18,7 @@ def get_hitokoto(file_path):
 
 def main():
     json_files = ['a.json', 'c.json', 'd.json', 'e.json']
-    weights = [0.2, 0.2, 0.45, 0.15]
+    weights = [0.2, 0.3, 0.35, 0.15]
     json_dir = os.path.expanduser('~/meiri/ku/')
 
     # 选择JSON文件
